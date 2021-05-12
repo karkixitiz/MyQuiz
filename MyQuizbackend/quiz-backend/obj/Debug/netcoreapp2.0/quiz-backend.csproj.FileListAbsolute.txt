@@ -1,0 +1,15 @@
+B:\2021\.netCore\MyQuiz\MyQuizbackend\quiz-backend\obj\Debug\netcoreapp2.0\quiz-backend.csprojAssemblyReference.cache
+B:\2021\.netCore\MyQuiz\MyQuizbackend\quiz-backend\obj\Debug\netcoreapp2.0\quiz-backend.csproj.CoreCompileInputs.cache
+B:\2021\.netCore\MyQuiz\MyQuizbackend\quiz-backend\obj\Debug\netcoreapp2.0\quiz-backend.AssemblyInfoInputs.cache
+B:\2021\.netCore\MyQuiz\MyQuizbackend\quiz-backend\obj\Debug\netcoreapp2.0\quiz-backend.AssemblyInfo.cs
+B:\2021\.netCore\MyQuiz\MyQuizbackend\quiz-backend\bin\Debug\netcoreapp2.0\appsettings.Development.json
+B:\2021\.netCore\MyQuiz\MyQuizbackend\quiz-backend\bin\Debug\netcoreapp2.0\appsettings.json
+B:\2021\.netCore\MyQuiz\MyQuizbackend\quiz-backend\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+B:\2021\.netCore\MyQuiz\MyQuizbackend\quiz-backend\bin\Debug\netcoreapp2.0\quiz-backend.deps.json
+B:\2021\.netCore\MyQuiz\MyQuizbackend\quiz-backend\bin\Debug\netcoreapp2.0\quiz-backend.runtimeconfig.json
+B:\2021\.netCore\MyQuiz\MyQuizbackend\quiz-backend\bin\Debug\netcoreapp2.0\quiz-backend.runtimeconfig.dev.json
+B:\2021\.netCore\MyQuiz\MyQuizbackend\quiz-backend\bin\Debug\netcoreapp2.0\quiz-backend.dll
+B:\2021\.netCore\MyQuiz\MyQuizbackend\quiz-backend\obj\Debug\netcoreapp2.0\quiz-backend.genruntimeconfig.cache
+B:\2021\.netCore\MyQuiz\MyQuizbackend\quiz-backend\bin\Debug\netcoreapp2.0\quiz-backend.pdb
+B:\2021\.netCore\MyQuiz\MyQuizbackend\quiz-backend\obj\Debug\netcoreapp2.0\quiz-backend.dll
+B:\2021\.netCore\MyQuiz\MyQuizbackend\quiz-backend\obj\Debug\netcoreapp2.0\quiz-backend.pdb
